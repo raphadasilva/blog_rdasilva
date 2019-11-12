@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 depart ="https://fr.wikipedia.org/wiki/Liste_des_monuments_historiques_d"
 villes = ["e_Reims", "e_Chaumont", "e_Charleville-Mézières", "e_Toul", "e_Pont-à-Mousson", "e_Haguenau", "e_Châlons-en-Champagne", "e_Troyes", "e_Verdun", "e_Bar-le-Duc", "'Épinal", "e_Nancy", "e_Metz", "e_Colmar", "e_Sélestat", "e_Mulhouse", "e_Strasbourg"]
-ficsv = open('livraisons/monuments_histo_ge.csv','w+')
+ficsv = open('monuments_histo_ge.csv','w+')
 
 try:
 	majcsv = csv.writer(ficsv)
