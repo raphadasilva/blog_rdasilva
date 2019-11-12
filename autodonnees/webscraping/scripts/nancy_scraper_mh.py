@@ -8,7 +8,7 @@ soupe = BeautifulSoup(url.text, "lxml")
 tableau = soupe.find("table", {"class":"wikitable sortable"}) # on considère le premier tableau de classe "wikitable sortable"
 lignes = tableau.findAll("tr") # puis toutes ses lignes
 
-ficsv = open('livraisons/monuments_histo_nancy.csv','w+')
+ficsv = open('monuments_histo_nancy.csv','w+')
 
 try:
 	majcsv = csv.writer(ficsv)
