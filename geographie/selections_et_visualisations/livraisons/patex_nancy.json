@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Monument": "Croix-Gagnee", "Adresse": "Rue de la Croix-Gagnée\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106107" }, "geometry": { "type": "Point", "coordinates": [ 6.158089, 48.699708 ] } },
+{ "type": "Feature", "properties": { "Monument": "Eglise Notre-Dame-Bonsecours", "Adresse": "254 avenue de Strasbourg\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106108" }, "geometry": { "type": "Point", "coordinates": [ 6.1994, 48.6767 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison Jeune", "Adresse": "30 rue du Sergent-Blandan\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106302" }, "geometry": { "type": "Point", "coordinates": [ 6.165926, 48.680871 ] } },
+{ "type": "Feature", "properties": { "Monument": "Parc Corbin", "Adresse": "36 rue du Sergent-Blandan\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA54000010" }, "geometry": { "type": "Point", "coordinates": [ 6.165897, 48.680339 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison", "Adresse": "24 rue Félix-Faure\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00132631" }, "geometry": { "type": "Point", "coordinates": [ 6.16594, 48.678219 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison", "Adresse": "25 rue Félix-Faure\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00132632" }, "geometry": { "type": "Point", "coordinates": [ 6.166077, 48.678037 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison", "Adresse": "26 rue Félix-Faure\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00132633" }, "geometry": { "type": "Point", "coordinates": [ 6.165853, 48.678192 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison", "Adresse": "28 rue Félix-Faure\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00132634" }, "geometry": { "type": "Point", "coordinates": [ 6.165782, 48.67817 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison", "Adresse": "30 rue Félix-Faure\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00132635" }, "geometry": { "type": "Point", "coordinates": [ 6.165711, 48.678149 ] } },
+{ "type": "Feature", "properties": { "Monument": "Immeuble", "Adresse": "3 rue de l'Abbé-Gridel\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106126" }, "geometry": { "type": "Point", "coordinates": [ 6.161976, 48.686357 ] } },
+{ "type": "Feature", "properties": { "Monument": "Immeuble", "Adresse": "5 rue de l'Abbé-Gridel\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106127" }, "geometry": { "type": "Point", "coordinates": [ 6.161922, 48.686433 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison Jean Prouve", "Adresse": "6 rue Augustin-Hacquard\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106294" }, "geometry": { "type": "Point", "coordinates": [ 6.16149, 48.700765 ] } },
+{ "type": "Feature", "properties": { "Monument": "Villa Bonnabel", "Adresse": "107, 111 avenue du Général-Leclerc\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106321" }, "geometry": { "type": "Point", "coordinates": [ 6.1767, 48.6754 ] } },
+{ "type": "Feature", "properties": { "Monument": "Villa Majorelle", "Adresse": "1 rue Louis-Majorelle\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106322" }, "geometry": { "type": "Point", "coordinates": [ 6.1639, 48.6855 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison Renaudin", "Adresse": "49, 51 rue Pasteur\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106257" }, "geometry": { "type": "Point", "coordinates": [ 6.168373, 48.681575 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison Coriolis", "Adresse": "113, 115 avenue de Strasbourg\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00106289" }, "geometry": { "type": "Point", "coordinates": [ 6.196311, 48.679808 ] } },
+{ "type": "Feature", "properties": { "Monument": "Maison Alsacienne Fruhinsholz", "Adresse": "78 avenue du 20e-Corps\n", "Source": "https:\/\/www.pop.culture.gouv.fr\/notice\/merimee\/\/PA00125526" }, "geometry": { "type": "Point", "coordinates": [ 6.199685, 48.697405 ] } }
+]
+}
