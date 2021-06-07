@@ -1,4 +1,4 @@
-# DDJ, ML et cie
+# Journalisme de données, apprentissage automatique, etc
 
 Ce répertoire contient des notebooks Jupyter **sur la manipulation de données**, avec notamment :
 
