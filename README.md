@@ -38,4 +38,6 @@ Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adres
 
 #### [Une routine pandas (sélections, regroupements, tableaux croisés dynamiques) articulées autour de la vaccination dans le Grand-Est](https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/routine_pandas/routine_pandas_vac_ge.ipynb)
 
+![vac_ge](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/d767487fff6a03d17fa57491446bb775d7e83430/autodonnees/routine_pandas/carto_ecpi.jpg)
+
 #### [Codage d'une classe Python restituant les tableaux classables trouvés dans une page Wikipedia en DataFrames prêtess à l'usage](https://github.com/raphadasilva/blog_rdasilva/blob/master/bonnes_pratiques/wikidaper/Wikidaper_Introduction_aux_classes_Python_%2B_regex.ipynb)
