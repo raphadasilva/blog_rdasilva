@@ -30,6 +30,8 @@ Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adres
 
 #### [Une chronologie de photos satellite pour apprécier l'apparition du Grand Contournement Ouest de Strasbourg](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/GIF%20satellite/Gif%20d%27images%20satellites%20avec%20repere%20-%20SentinelHub%20%2B%20PIL%20%2B%20rasterio%20%2B%20geopandas%20(GH).ipynb) (calepin lourd, peut nécessiter un rechargement de page)
 
+![gif_gco](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/GIF%20satellite/GCO_strasbourg.gif)
+
 ## Bonnes pratiques
 
 *Certaines habitudes de développement et/ou feuille de route permettent de gagner du temps à moyen et long terme, que ce soit pour la manipulation ou l'exploration de données.*
