@@ -22,7 +22,7 @@ Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adres
 
 #### [La surveillance des chiffres quotidiens de décès covid-19 à l'hôpital grâce à pandas et matplotlib](https://github.com/raphadasilva/blog_rdasilva/blob/master/visualisations/deces_covid_vizu_simples/Visualisation%20simples%20-%20Python%20panda%20matplotlib.ipynb)
 
-![mortalite_covid](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/master/visualisations/deces_covid_vizu_simples/deux_vagues_cinq_regions.png)
+![mortalite_covid](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/master/visualisations/deces_covid_vizu_simples/tuto_matplotlib.png)
 
 #### [Une carte à bulles proportionnelles grâce aux données OSM et SNCF](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/visualisation%20statique/visualisation_frequentation_ter.ipynb)
 
