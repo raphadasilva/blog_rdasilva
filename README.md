@@ -22,6 +22,8 @@ Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adres
 
 #### [La surveillance des chiffres quotidiens de décès covid-19 à l'hôpital grâce à pandas et matplotlib](https://github.com/raphadasilva/blog_rdasilva/blob/master/visualisations/deces_covid_vizu_simples/Visualisation%20simples%20-%20Python%20panda%20matplotlib.ipynb)
 
+![mortalite_covid](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/master/visualisations/deces_covid_vizu_simples/deux_vagues_cinq_regions.png)
+
 #### [Une carte à bulles proportionnelles grâce aux données OSM et SNCF](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/visualisation%20statique/visualisation_frequentation_ter.ipynb)
 
 #### [Une chronologie de photos satellite pour apprécier l'apparition du Grand Contournement Ouest de Strasbourg](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/GIF%20satellite/Gif%20d%27images%20satellites%20avec%20repere%20-%20SentinelHub%20%2B%20PIL%20%2B%20rasterio%20%2B%20geopandas%20(GH).ipynb) (calepin lourd, peut nécessiter un rechargement de page)
