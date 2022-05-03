@@ -2,8 +2,6 @@
 
 Ce repo héberge divers notebooks Jupyter articulés autour de travaux effectués pour des piges ou de la prospection. Afin de ne pas le transformer en batterie de calpeins, je vous propose une sélection ci-dessous.
 
-Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adresse raphipons[at]gmail.com
-
 ## Traitement de données
 
 *Cette section documente des traitements de données lourds et compliqués à résumer en quelques lignes. L'objectif principal est d'aboutir à des fichiers json exploitables par la bibliothèque D3js.*
@@ -41,3 +39,5 @@ Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adres
 ![vac_ge](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/d767487fff6a03d17fa57491446bb775d7e83430/autodonnees/routine_pandas/carto_ecpi.jpg)
 
 #### [Codage d'une classe Python restituant les tableaux classables trouvés dans une page Wikipedia en DataFrames prêtess à l'usage](https://github.com/raphadasilva/blog_rdasilva/blob/master/bonnes_pratiques/wikidaper/Wikidaper_Introduction_aux_classes_Python_%2B_regex.ipynb)
+
+Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adresse raphipons[at]gmail.com
