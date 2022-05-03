@@ -10,6 +10,8 @@ Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adres
 
 #### [Calcul du prix médian au m² dans les communes de la Métropole de Lyon de 2016 à 2020](https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/immo_lyon_1520/DVF%20localis%C3%A9e%20Lyon%20et%20alentours.ipynb) (Rue89 Lyon)
 
+![immo_lyon](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/3f1e4b3c33d7c39a766cf2c786d0031deee751b8/autodonnees/immo_lyon_1520/app_immolyo.jpg)
+
 #### [Comparaison de la mortalité 2020 à celle de la décennie précédente dans le Haut-Rhin et le Bas-Rhin à partir du fichier mortalité de l'INSEE](https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/mortalite_INSEE/Mortalit%C3%A9%20-%20totaux%2C%20moyenne%20et%20segmentation%20avec%20pandas.ipynb) (Rue89 Strasbourg)
 
 ## Visualisations statiques
