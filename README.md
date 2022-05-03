@@ -1,6 +1,6 @@
 # Blog de Raphaël da Silva (Analyste/Journaliste de données)
 
-Ce repertoire héberge divers notebooks Jupyter articulés autour de travaux effectués pour des piges ou de la prospection. Afin de ne pas le transformer en batterie de calpeins, je vous propose la sélection suivante.
+Ce repertoire héberge divers notebooks Jupyter articulés autour de travaux effectués pour des piges ou de la prospection. Afin de ne pas le transformer en batterie de calepins, je vous propose la sélection suivante.
 
 ## Traitement de données
 
