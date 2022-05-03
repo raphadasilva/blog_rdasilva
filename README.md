@@ -27,3 +27,5 @@ Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adres
 *Certaines habitudes de développement et/ou feuille de route permettent de gagner du temps à moyen et long terme, que ce soit pour la manipulation ou l'exploration de données.*
 
 #### [Une routine pandas (sélections, regroupements, tableaux croisés dynamiques) articulées autour de la vaccination dans le Grand-Est](https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/routine_pandas/routine_pandas_vac_ge.ipynb)
+
+#### [Codage d'une classe Python restituant les tableaux classables trouvés dans une page Wikipedia en DataFrames prêtess à l'usage](https://github.com/raphadasilva/blog_rdasilva/blob/master/bonnes_pratiques/wikidaper/Wikidaper_Introduction_aux_classes_Python_%2B_regex.ipynb)
