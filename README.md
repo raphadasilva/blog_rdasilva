@@ -26,6 +26,8 @@ Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adres
 
 #### [Une carte à bulles proportionnelles grâce aux données OSM et SNCF](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/visualisation%20statique/visualisation_frequentation_ter.ipynb)
 
+![ter_bretagne](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/master/geographie/visualisation%20statique/bzh_ter2019.jpg)
+
 #### [Une chronologie de photos satellite pour apprécier l'apparition du Grand Contournement Ouest de Strasbourg](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/GIF%20satellite/Gif%20d%27images%20satellites%20avec%20repere%20-%20SentinelHub%20%2B%20PIL%20%2B%20rasterio%20%2B%20geopandas%20(GH).ipynb) (calepin lourd, peut nécessiter un rechargement de page)
 
 ## Bonnes pratiques
