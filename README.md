@@ -14,6 +14,8 @@ Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adres
 
 #### [Comparaison de la mortalité 2020 à celle de la décennie précédente dans le Haut-Rhin et le Bas-Rhin à partir du fichier mortalité de l'INSEE](https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/mortalite_INSEE/Mortalit%C3%A9%20-%20totaux%2C%20moyenne%20et%20segmentation%20avec%20pandas.ipynb) (Rue89 Strasbourg)
 
+![covid_alsace](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/0ee278d6f1a07784ca3465e99bb2f0d99bae020a/autodonnees/mortalite_INSEE/courbe_covid.jpeg)
+
 ## Visualisations statiques
 
 *Python n'est pas encore de taille à rivaliser avec les infographies interactives codables en Javascript. Le langage a en revanche de sérieux atouts pour tout ce qui est statique, avec la possibilité de coder de beaux graphiques et cartographies publiables sur les réseaux sociaux.*
