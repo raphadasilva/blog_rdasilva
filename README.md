@@ -1,6 +1,6 @@
 # Blog de Raphaël da Silva (Analyste/Journaliste de données)
 
-Ce repo héberge divers notebooks Jupyter articulés autour de travaux effectués pour des piges. Afin de ne pas le transformer en batterie de calpeins, je vous propose une sélection ci-dessous.
+Ce repo héberge divers notebooks Jupyter articulés autour de travaux effectués pour des piges ou de la prospection. Afin de ne pas le transformer en batterie de calpeins, je vous propose une sélection ci-dessous.
 
 Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adresse raphipons[at]gmail.com
 
