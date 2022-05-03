@@ -1,13 +1,7 @@
-# Journalisme de données, apprentissage automatique, etc
+# Blog de Raphaël da Silva (Analyste/Journaliste de données)
 
-Ce répertoire contient des notebooks Jupyter **sur la manipulation de données**, avec notamment :
+Ce repo héberge divers notebooks Jupyter articulés autour de travaux effectués pour des piges. Afin de ne pas le transformer en banal catalogue de calpein, je vous propose une sélection.
 
-- du webscraping
-- du traitement de données (statistiques et géographiques)
-- du machine learning
+Pour toute question et/ou proposition de pige, vous pouvez me joindre à l'adresse raphipons[at]gmail.com
 
-Ils ont été rédigés en guise de pense-bêtes à destination de journalistes de données (mais pas que).
-
-Chaque sous-dossier est accompagné de scripts en Pyton 3 directement réutilisables. N'oubliez pas que citer la source reste appréciable !
-
-Pour toute question, mon mail : raphipons[at]gmail.com
+# Traitement de données
