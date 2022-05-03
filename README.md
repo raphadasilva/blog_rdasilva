@@ -18,7 +18,7 @@ Ce repertoire héberge divers notebooks Jupyter articulés autour de travaux eff
 
 *Python n'est pas encore de taille à rivaliser avec les infographies interactives codables en Javascript. Le langage a en revanche de sérieux atouts pour tout ce qui est statique, avec la possibilité de coder de beaux graphiques et cartographies publiables sur les réseaux sociaux.*
 
-#### [La surveillance des chiffres quotidiens de décès covid-19 à l'hôpital grâce à pandas et matplotlib](https://github.com/raphadasilva/blog_rdasilva/blob/master/visualisations/deces_covid_vizu_simples/Visualisation%20simples%20-%20Python%20panda%20matplotlib.ipynb)
+#### [La surveillance des chiffres quotidiens de décès covid-19 à l'hôpital grâce à pandas et matplotlib](https://github.com/raphadasilva/blog_rdasilva/blob/master/visualisations/deces_covid_vizu_simples/Visualisation%20simples%20-%20Python%20panda%20matplotlib.ipynb) (Rue89 Strasbourg)
 
 ![mortalite_covid](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/master/visualisations/deces_covid_vizu_simples/tuto_matplotlib.png)
 
