@@ -313,6 +313,7 @@ res = center[label.flatten()]
 res2 = res.reshape((img.shape))
 
 # ensuite, on lit nos deux rasters qu'on reformate et enregistre en png
+# (ces derniers sont très lourds et donc absents du sous-dossier data, vous pouvez trouver le chemin de téléchargement sur le calepin dédié au fond de carte)
 norte = rasterio.open("data\\pnt_sentinel2_2024_invierno_mosaico_peninsula_illes-balears_b843_hu30_8bits_norte.tif")
 sur = rasterio.open("data\\pnt_sentinel2_2024_invierno_mosaico_peninsula_illes-balears_b843_hu30_8bits_sur.tif")
 for r,n in zip([norte,sur],["norte_red","sur_red"]):
