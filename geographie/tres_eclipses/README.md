@@ -17,3 +17,7 @@ A cela :
 En prenant un détour par ceci :
 
 ![planete_interdite](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/forbidden_planet.jpg)
+
+Cela est rendu possible en utilisant l'algorithme des K-moyennes depuis le module OpenCV. Quelques manipulations avec rasterio sont aussi requises afin d'enregistrer les fichiers géographiques en images.
+
+## [Partie 2 : récupérer les trajets d'éclipses et ajouter quelques villes en repères](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data-eclipse_astropy-geopandas.ipynb)
