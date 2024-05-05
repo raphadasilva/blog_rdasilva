@@ -8,6 +8,7 @@ Ce travail a nécessité de jongler entre beaucoup de modules, j'ai en conséque
 
 L'enjeu de cette partie se résume à passer de ceci :
 
+![tres_eclipses](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/eclipses_espana.jpg)
 ![ir_espana]([https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/eclipses_espana.jpg](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/espagne_r.jpg)
 
 A cela :
