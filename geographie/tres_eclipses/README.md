@@ -28,3 +28,7 @@ Le moment est venu de faire feu de tout bois, avec :
 * **quelques agréments visuels**, notamment avec des annotations qui suivent les trajets d'éclipses. Pour le coup, il faut rendre hommage [au développeur Thomas Kühn](https://stackoverflow.com/questions/19353576/curved-text-rendering-in-matplotlib)
 
 ![eclipses](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/eclipsesp.png)
+
+Enfin, du geopandas sans douleur afin d'ajouter quelques repères géographiques :
+
+![ciudades](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/ciudades.png)
