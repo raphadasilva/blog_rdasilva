@@ -26,6 +26,10 @@ Ce repertoire héberge divers notebooks Jupyter articulés autour de travaux eff
 
 ![ter_bretagne](https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/master/geographie/visualisation%20statique/bzh_ter2019.jpg)
 
+#### [Une cartographie satellites des prochaines éclipses dans la péninsule ibérique](https://github.com/raphadasilva/blog_rdasilva/tree/master/geographie/tres_eclipses)
+
+![tres_eclipses]([https://raw.githubusercontent.com/raphadasilva/blog_rdasilva/master/geographie/visualisation%20statique/bzh_ter2019.jpg](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/eclipses_espana.jpg))
+
 #### [Une chronologie de photos satellite pour apprécier l'apparition du Grand Contournement Ouest de Strasbourg](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/GIF%20satellite/Gif%20d%27images%20satellites%20avec%20repere%20-%20SentinelHub%20%2B%20PIL%20%2B%20rasterio%20%2B%20geopandas%20(GH).ipynb) (calepin lourd, peut nécessiter un rechargement de page)
 
 ![gif_gco](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/GIF%20satellite/GCO_strasbourg.gif)
