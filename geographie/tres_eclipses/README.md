@@ -23,6 +23,8 @@ Cela est rendu possible en utilisant l'algorithme des K-moyennes depuis le modul
 ## [Partie 2 : récupérer les trajets d'éclipses et ajouter quelques villes en repères](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data-eclipse_astropy-geopandas.ipynb)
 
 Le moment est venu de faire feu de tout bois, avec :
-* **la récupération du trajet des éclipses** à partir des dates connues. Cela est rendu possible grâce au travail récent [d'Erik Bernhardsson](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python), articulé autour du module Astropy
+* **la récupération du trajet des éclipses** à partir des dates connues. Cela est rendu possible en recyclant le travail récent [d'Erik Bernhardsson](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python), articulé autour du module Astropy
 * de la dentelle, **avec des largeurs personnalisées en fonction des éclipses**. Pour cela , un seul acronyme : NASA.
-* 
+* **quelques agréments visuels**, notamment avec des annotations qui suivent les trajets d'éclipses. Pour le coup, il faut rendre hommage [au développeur Thomas Kühn](https://stackoverflow.com/questions/19353576/curved-text-rendering-in-matplotlib)
+
+![eclipses](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/eclipsesp.png)
