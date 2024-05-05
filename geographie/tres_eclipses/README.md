@@ -13,3 +13,7 @@ L'enjeu de cette partie se résume à passer de ceci :
 A cela :
 
 ![espana_pi](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/espagne_16pi_r.jpg)
+
+En prenant un détour par ceci :
+
+![planete_interdite](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/data/forbidden_planet.jpg)
