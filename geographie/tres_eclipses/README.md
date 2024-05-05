@@ -4,7 +4,7 @@ Ce dossier contient la documentation et fichiers nécessaires à l'élabortion d
 
 Ce travail a nécessité de jongler entre beaucoup de modules, j'ai en conséquence préféré le scinder en deux.
 
-## [Partie 1 : préparer un fond de carte personnalisé à partir de raster et d'un extrait de film](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/fond-carte_rasterio-cv2-kmeans.ipynb)
+## [Partie 1 : préparer un fond de carte personnalisé à partir de rasters et d'un extrait de film](https://github.com/raphadasilva/blog_rdasilva/blob/master/geographie/tres_eclipses/fond-carte_rasterio-cv2-kmeans.ipynb)
 
 L'enjeu de cette partie se résume à passer de ceci :
 
