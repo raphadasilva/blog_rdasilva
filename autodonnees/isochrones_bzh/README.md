@@ -1,1 +1,2 @@
-J'ai eu le plaisir de réaliser mes premières pige pour Splann! cette année. Pour le dernier volet de l'enquête sur [l'état de l'hôpital dans la région](https://splann.org/enquete/hopital-destruction-programmee/)
+J'ai eu le plaisir de réaliser mes premières pige pour Splann! cette année. Pour le dernier volet de l'enquête sur [l'état de l'hôpital dans la région](https://splann.org/enquete/hopital-destruction-programmee/), je me suis penché sur un type de cartographie particulièrement ambitieux : une isochrone articulée autour des temps de trajet en voiture pour rejoindre une maternité :
+![image](pictures/carto_splann0.jpg)
