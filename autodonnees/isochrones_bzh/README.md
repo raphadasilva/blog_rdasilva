@@ -7,6 +7,14 @@ Des urgences, nous sommes finalement passés à l'implantation des maternités e
 
 Pour toute remarque ou question, voici mon adresse courriel : raphadasilva\[at\]proton.me
 
-# Partie 1 : géocoder les maternités
+# Partie 1 : [géocoder les maternités](https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/isochrones_bzh/0_geocode.ipynb)
 
 ![Géocodage des maternités](pictures/geocode_bzh.jpg)
+
+# Partie 2 : [calculer le diagramme de Voronoï correspondant](https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/isochrones_bzh/1_geovoronoi.ipynb)
+
+![Diagramme de Voronoï des maternités](pictures/voronoi_bzh.jpg)
+
+# Partie 3 : [récupérer les données isochrones de chaque maternité en se pliant à chaque dalle du diagramme](https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/isochrones_bzh/2_isochrones.ipynb)
+
+![Et enfin des isochrones](pictures/isoc_bzh.jpg)
