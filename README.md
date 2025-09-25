@@ -4,7 +4,11 @@ Ce repertoire héberge divers notebooks Jupyter articulés autour de travaux eff
 
 ## Traitement de données
 
-*Cette section documente des traitements de données lourds et compliqués à résumer en quelques lignes. L'objectif principal est d'aboutir à des fichiers json exploitables par la bibliothèque D3js.*
+*Cette section documente des traitements de données lourds et compliqués à résumer en quelques lignes. L'objectif principal est d'aboutir à des fichiers json exploitables par la bibliothèque de visualisation D3js.*
+
+#### [Carte isochrone des temps de trajet vers la maternité la plus proche]([https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/immo_lyon_1520/DVF%20localis%C3%A9e%20Lyon%20et%20alentours.ipynb](https://github.com/raphadasilva/blog_rdasilva/tree/master/autodonnees/isochrones_bzh) (Splann!)
+
+![iso_bzh](https://github.com/raphadasilva/blog_rdasilva/edit/master/autodonnees/isochrones_bzh/pictures/carto_splann0.jpg)
 
 #### [Calcul du prix médian au m² dans les communes de la Métropole de Lyon de 2016 à 2020](https://github.com/raphadasilva/blog_rdasilva/blob/master/autodonnees/immo_lyon_1520/DVF%20localis%C3%A9e%20Lyon%20et%20alentours.ipynb) (Rue89 Lyon)
 
